@@ -22,4 +22,4 @@ Key Points to Remember
     : (colon) starts a new block
     Proper indentation is mandatory
 
-you can see the same examples, in the folder structures 
+you can see some examples, in the folder structures 
